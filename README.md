@@ -1,2 +1,2 @@
-# airquality_dataset
-bioinformatica
+# binder
+REPOSITORI DE TREBALL PER CREACIÓ D'ENTORNS REPRODUÏBLES
